@@ -8,7 +8,7 @@
 #ifndef AB_STACK_H_
 #define AB_STACK_H_
 
-#ifdef __cplusplus__
+#ifdef __cplusplus
 extern "C" {
 #endif
 
@@ -28,7 +28,7 @@ extern void   **ab_stack_to_array(T stack, void *end);
 
 #undef T
 
-#ifdef __cplusplus__
+#ifdef __cplusplus
 }
 #endif
 

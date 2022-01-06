@@ -8,7 +8,7 @@
 #ifndef AB_BASE_AB_TABLE_H_
 #define AB_BASE_AB_TABLE_H_
 
-#ifdef __cplusplus__
+#ifdef __cplusplus
 extern "C" {
 #endif
 
@@ -27,7 +27,7 @@ extern void   **table_to_array(T table, void *end);
 
 #undef T
 
-#ifdef __cplusplus__
+#ifdef __cplusplus
 }
 #endif
 
